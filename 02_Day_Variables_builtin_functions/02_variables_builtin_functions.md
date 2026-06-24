@@ -1,7 +1,5 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 2 - Variables, Builtin Functions</h1>
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
 </div>
 
 [<< Day 1](../readme.md) | [Day 3 >>](../03_Day_Operators/03_operators.md)
